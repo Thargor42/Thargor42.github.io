@@ -8,3 +8,5 @@ The game is a MMORPG called Middle Country where Thargor is a barbarian hero.
 * Big
 * Strong
 * Powerful
+
+> Too long a ago for a quote

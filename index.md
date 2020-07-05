@@ -10,3 +10,5 @@ The game is a MMORPG called Middle Country where Thargor is a barbarian hero.
 * Powerful
 
 > Too long a ago for a quote
+
+<img src="https://render-eu.worldofwarcraft.com/character/stormrage/199/128172999-main.jpg"/>
